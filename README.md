@@ -65,7 +65,7 @@ Securely store, manage, rotate, and call **multiple AI/LLM API keys** (OpenAI, A
 </div>
 
 <div align="center">
-<img src="images/45195.png" alt="CLI Installation and Commands" width="700">
+<img src="images/45195.png" alt="CLI Installation and Commands" width="730">
 </div>
 
 ## The Problem Developers Face Every Day
@@ -147,6 +147,9 @@ Default: backend on `http://localhost:8000`, frontend proxies to it.
 ## License
 
 [MIT License](LICENSE) — free to use, modify, distribute.
+
+Built with 🩵 by *[Anik Chand](https://github.com/anikchand461)* and *[Abhiraj Adhikary](https://github.com/abhirajadhikary06)and *[Sreeja Maity](https://github.com/sreejamaity9)*and *[Radhika Kumari](https://github.com/ridsslook)**
+*onekey* — because your keys deserve better than a ⁠ .env ⁠ file.
 
 ---
 
