@@ -8,8 +8,8 @@ msgs = [
 
 for m in msgs:
     print(requests.post(
-        "https://onekey.onrender.com/proxy/u/groq/cbhgroq",
-        headers={"Authorization":"Bearer apikey-groq-cbhgroq","Content-Type":"application/json"},
+        "https://onekey-8pr2.onrender.com/proxy/u/groq/cbhorg",
+        headers={"Authorization":"Bearer apikey-groq-cbhorg","Content-Type":"application/json"},
         json={"model":"groq/compound-mini","messages":[{"role":"user","content":m}]}
     ).json())
 
