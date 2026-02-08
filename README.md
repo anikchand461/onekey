@@ -16,8 +16,10 @@ Securely store, manage, rotate, and call **multiple AI/LLM API keys** (OpenAI, A
 *📹 Watch: Full demo of onekey web dashboard and CLI in action*
 
 </div>
+
 ## Website screenshots
 
+<div align="center">
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
@@ -36,6 +38,7 @@ Securely store, manage, rotate, and call **multiple AI/LLM API keys** (OpenAI, A
     </td>
   </tr>
 </table>
+</div>
 
 ## The Problem Developers Face Every Day
 
