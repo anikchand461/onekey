@@ -57,7 +57,8 @@ Securely store, manage, rotate, and call **multiple AI/LLM API keys** (OpenAI, A
       <img src="images/89036.png" alt="CLI Installation and Commands" width="350">
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="images/3647.png" alt="CLI Features" width="350">
+      <img src="images/3647.png" alt="CLI Features" width="350"><br>
+      <img src="images/40010.png" alt="Additional CLI Feature" width="350">
     </td>
   </tr>
 </table>
