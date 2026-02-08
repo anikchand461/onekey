@@ -22,18 +22,18 @@ Securely store, manage, rotate, and call **multiple AI/LLM API keys** (OpenAI, A
 <div align="center">
 <table>
   <tr>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding: 10px;">
       <img src="images/50985.png" alt="Add New API Key and Usage Overview" width="350">
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding: 10px;">
       <img src="images/8079.png" alt="Usage Over Time" width="350">
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding: 10px;">
       <img src="images/65030.png" alt="CLI Installation and Commands" width="350">
     </td>
-    <td align="center" style="padding: 5px;">
+    <td align="center" style="padding: 10px;">
       <img src="images/91759.png" alt="CLI Features" width="350">
     </td>
   </tr>
