@@ -9,7 +9,9 @@ Securely store, manage, rotate, and call **multiple AI/LLM API keys** (OpenAI, A
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CLI on PyPI](https://img.shields.io/pypi/v/onekey-cli?label=onekey-cli&logo=pypi)](https://pypi.org/project/onekey-cli/)
 
-[![onekey Demo: Web Dashboard + CLI Walkthrough](https://img.youtube.com/vi/Jv8lI1V49ao/maxresdefault.jpg)](https://youtu.be/Jv8lI1V49ao)
+<a href="https://youtu.be/Jv8lI1V49ao">
+  <img src="https://img.youtube.com/vi/Jv8lI1V49ao/maxresdefault.jpg" alt="onekey Demo" width="600"/>
+</a>
 
 *📹 Watch: Full demo of onekey web dashboard and CLI in action*
 
