@@ -17,6 +17,23 @@ Securely store, manage, rotate, and call **multiple AI/LLM API keys** (OpenAI, A
 
 </div>
 
+## Website screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="flex: 1 1 45%;">
+    <img src="https://i.imgur.com/add-key-usage.png" alt="Add New API Key and Usage Overview" width="350">
+  </div>
+  <div style="flex: 1 1 45%;">
+    <img src="https://i.imgur.com/usage-over-time.png" alt="Usage Over Time" width="350">
+  </div>
+  <div style="flex: 1 1 45%;">
+    <img src="https://i.imgur.com/cli-installation.png" alt="CLI Installation and Commands" width="350">
+  </div>
+  <div style="flex: 1 1 45%;">
+    <img src="https://i.imgur.com/cli-features.png" alt="CLI Features" width="350">
+  </div>
+</div>
+
 
 ## The Problem Developers Face Every Day
 
