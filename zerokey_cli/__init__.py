@@ -24,7 +24,7 @@ app = typer.Typer(
 )
 
 # Config
-BASE_URL = "https://onekey.onrender.com"  # Change to production URL later
+BASE_URL = "https://onekey-8pr2.onrender.com"  # production URL later
 CONFIG_FILE = Path.home() / ".onekey" / "config.json"
 CONFIG_FILE.parent.mkdir(parents=True, exist_ok=True)
 
