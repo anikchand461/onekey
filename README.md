@@ -16,24 +16,26 @@ Securely store, manage, rotate, and call **multiple AI/LLM API keys** (OpenAI, A
 *📹 Watch: Full demo of onekey web dashboard and CLI in action*
 
 </div>
-
 ## Website screenshots
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 800px; margin: 20px auto;">
-  <div>
-    <img src="images/50985.png" alt="Add New API Key and Usage Overview" width="100%">
-  </div>
-  <div>
-    <img src="images/8079.png" alt="Usage Over Time" width="100%">
-  </div>
-  <div>
-    <img src="images/65030.png" alt="CLI Installation and Commands" width="100%">
-  </div>
-  <div>
-    <img src="images/91759.png" alt="CLI Features" width="100%">
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="images/50985.png" alt="Add New API Key and Usage Overview" width="350">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="images/8079.png" alt="Usage Over Time" width="350">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="images/65030.png" alt="CLI Installation and Commands" width="350">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="images/91759.png" alt="CLI Features" width="350">
+    </td>
+  </tr>
+</table>
 
 ## The Problem Developers Face Every Day
 
